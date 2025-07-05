@@ -3,17 +3,15 @@
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
+.font-size {
+    font-size: 24px;
+}
 #number2 {
     color: rgb(0, 0, 255);
     font-size: 36px;
 }
 
-.odd#number3 {
-    font-size: 24px;
-}
-
 #number4 {
     background-color: rgb(144, 238, 144);
-    font-size: 24px;
     font-weight: bold;
 }
